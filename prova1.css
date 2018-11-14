@@ -1,0 +1,24 @@
+*
+{margin:0;
+ padding:0;}
+
+header {
+background-image: linear-gradient: rgba(0,0,0,.5), linear-gradient: rgba(0,0,0,.5), url(lago.jpg);
+height: 100%;
+background-size:cover;
+background-position:center;}
+
+nav             {
+	            float: right;
+	            position:fixed;
+	            font-weight:bold;
+	            font-size:auto;
+	            background-color:rgba(255,255,255,.7);
+	            text-align: center;
+	            margin-top: 20px;
+	            }
+a:hover {color: white;}
+a:visited       {color: #F5C52C;}
+body            { font-family: sans-serif; background: #808080; }
+h1,h2,a,h4      { font-family: 'Cochin';font-style: cursive;}
+h4               { color: black;}
